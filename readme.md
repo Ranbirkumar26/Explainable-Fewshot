@@ -124,41 +124,6 @@ project/
 
 ---
 
-## 🛠️ Setup Instructions
-
-### 1. Clone the repository
-
-```bash
-git clone <your-repo-link>
-cd <project-folder>
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Train the model
-
-```bash
-python train.py
-```
-
-### 4. Run inference
-
-```bash
-python inference.py
-```
-
-### 5. Launch GUI
-
-```bash
-python gui.py
-```
-
----
-
 ## 📊 Model Details
 
 * Backbone: ResNet-18
